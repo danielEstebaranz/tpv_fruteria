@@ -2,7 +2,7 @@
 
 Aplicación TPV (Terminal Punto de Venta) desarrollada en **Flutter** para la gestión de ventas en una frutería.
 
-Este proyecto forma parte de un trabajo académico y simula el funcionamiento básico de un sistema de caja: selección de productos, cálculo del total y registro de ventas.
+Este proyecto forma parte de un trabajo académico y simula el funcionamiento básico de un sistema de caja
 
 ---
 
